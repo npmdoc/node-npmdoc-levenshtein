@@ -1,9 +1,14 @@
-# api documentation for  [levenshtein (v1.0.5)](https://github.com/gf3/Levenshtein)  [![npm package](https://img.shields.io/npm/v/npmdoc-levenshtein.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-levenshtein) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-levenshtein.svg)](https://travis-ci.org/npmdoc/node-npmdoc-levenshtein)
+# npmdoc-levenshtein
+
+#### api documentation for  [levenshtein (v1.0.5)](https://github.com/gf3/Levenshtein)  [![npm package](https://img.shields.io/npm/v/npmdoc-levenshtein.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-levenshtein) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-levenshtein.svg)](https://travis-ci.org/npmdoc/node-npmdoc-levenshtein)
+
 #### Javascript implementation of the L-diggity.
 
-[![NPM](https://nodei.co/npm/levenshtein.png?downloads=true)](https://www.npmjs.com/package/levenshtein)
+[![NPM](https://nodei.co/npm/levenshtein.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/levenshtein)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-levenshtein/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-levenshtein_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-levenshtein/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-levenshtein/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-levenshtein/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-levenshtein/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-levenshtein/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-levenshtein/build/screenCapture.npmPackageListing.svg)
 
@@ -18,7 +23,6 @@
 {
     "author": {
         "name": "Gianni Chiappetta",
-        "email": "gianni@runlevel6.org",
         "url": "http://gf3.ca"
     },
     "bugs": {
@@ -44,13 +48,11 @@
     "main": "./lib/levenshtein",
     "maintainers": [
         {
-            "name": "gf3",
-            "email": "gianni@runlevel6.org"
+            "name": "gf3"
         }
     ],
     "name": "levenshtein",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+ssh://git@github.com/gf3/Levenshtein.git"
@@ -58,19 +60,10 @@
     "scripts": {
         "test": "cd test && node test"
     },
-    "version": "1.0.5"
+    "version": "1.0.5",
+    "bin": {}
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module levenshtein](#apidoc.module.levenshtein)
-
-
-
-# <a name="apidoc.module.levenshtein"></a>[module levenshtein](#apidoc.module.levenshtein)
 
 
 
